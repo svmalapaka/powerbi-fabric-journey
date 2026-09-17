@@ -209,6 +209,37 @@ Enterprise shared model in AAS?    →  Live Connection   ✅
 
 ---
 
+## 📅 Learning Journal
+
+### September 17, 2026
+
+**Tracks Active:** Power BI / PL-300 | NJ Real Estate Pre-Licensing | Infrastructure
+
+#### ✅ Completed Today
+
+**Power BI & SQL Server**
+- Installed SQL Server Express 2022 + SSMS 22 on local Windows machine
+- Configured SSMS connection: `localhost\SQLEXPRESS` with Windows Authentication + Trust Server Certificate
+- Restored `AdventureWorksDW2020` database from `.bak` file to SQL Server Backup folder
+- Connected Power BI Desktop to local SQL Server
+- Explored Power Query Editor: column quality, data distribution, column profiling
+- Blended SQL Server + CSV data sources in a single Power BI model
+
+**NJ Real Estate Pre-Licensing (75-Hour Course)**
+- ✅ Unit 11 — Complete
+- Progress: 47% content | 21h 44min logged | Expiry: Dec 14, 2026
+
+**Infrastructure**
+- ✅ Fiber internet installed and live
+
+#### 📊 Overall Progress
+| Track | Status |
+|---|---|
+| Power BI / PL-300 | 🟡 In Progress — Lab Phase |
+| NJ Real Estate (75hr) | 🟡 47% Complete — 40h 46min remaining |
+| SQL Server Local Setup | ✅ Complete |
+
+
 ## 🔗 Resources
 
 - [Microsoft Learn — PL-300 Learning Path](https://learn.microsoft.com/en-us/training/paths/get-data-power-bi/)
