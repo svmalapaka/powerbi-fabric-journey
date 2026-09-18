@@ -239,6 +239,16 @@ Enterprise shared model in AAS?    →  Live Connection   ✅
 | NJ Real Estate (75hr) | 🟡 47% Complete — 40h 46min remaining |
 | SQL Server Local Setup | ✅ Complete |
 
+---
+
+## 🔷 Microsoft Fabric — 15-Day Trial (Started Sep 17, 2026)
+
+**Fabric trial activated** alongside the Power BI 30-day challenge.  
+**Workspace:** `Sastry-Fabric-Portfolio` — trial running, Day 1 complete.
+
+> All Fabric project deep-dives live in a dedicated repo to keep this journey focused:  
+> 👉 [github.com/svmalapaka/fabric-portfolio](https://github.com/svmalapaka/fabric-portfolio)
+
 
 ## 🔗 Resources
 
