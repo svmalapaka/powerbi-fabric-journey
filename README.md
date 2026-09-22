@@ -240,6 +240,35 @@ Enterprise shared model in AAS?    →  Live Connection   ✅
 | SQL Server Local Setup | ✅ Complete |
 
 ---
+---
+
+## September 22, 2026
+
+**Tracks Active:** Microsoft Fabric 15-Day Trial | NJ Real Estate Pre-Licensing
+
+### ✅ Completed Today
+
+**Microsoft Fabric — Semantic Models**
+
+- Created `Gold_SemanticModel` using Direct Lake on SQL in Sastry-Fabric-Portfolio workspace
+- Connected 3 Gold layer tables: `gold_sales_by_category`, `gold_sales_by_quarter`, `gold_sales_by_state`
+- Added 3 DAX measures: Total Revenue, Total Orders, Avg Order Value
+- Built and saved `Gold_Sales_Validation_Report` — Matrix visual confirmed live data (Electronics: 15 orders, Furniture: 5 orders)
+- Learned: No relationships needed between independent Gold aggregation tables (correct Medallion pattern)
+
+**NJ Real Estate Pre-Licensing (75-Hour Course)**
+
+- ✅ Section 12 — Complete
+- ✅ Section 13 — Complete
+- Progress: 56% | 34h 32m logged | Expiry: Dec 14, 2026
+
+### 📊 Overall Progress
+
+| Track | Status |
+|---|---|
+| Microsoft Fabric 15-Day Trial | 🟡 Day 6 of 15 — In Progress |
+| NJ Real Estate (75hr) | 🟡 56% Complete — 27h 58min remaining |
+
 
 ## 🔷 Microsoft Fabric — 15-Day Trial (Started Sep 17, 2026)
 
